@@ -1,0 +1,5 @@
+google==1.9.3
+bert_serving_server==1.10.0
+bert_serving_client==1.10.0
+rasa_sdk==1.1.1
+rasa==1.2.2

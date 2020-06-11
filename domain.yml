@@ -1,0 +1,38 @@
+intents:
+- goodbye
+- greet
+- faq
+- affirm
+- deny
+- thanks
+templates:
+  utter_greet:
+  - text: Hello I am a DSDP and MyCFIA FAQbot, How Can I help you today?
+  utter_goodbye:
+  - text: Have a nice day, Bye.
+  utter_ask_me_question:
+  - text: How can I help you?
+  utter_default:
+  - text: I am sorry, Let's try again, what can I help you with?
+  utter_ask_need_help:
+  - text: Do you need any help?
+  utter_ask_need_more_help:
+  - text: Is there anything else I can help you with today?
+  utter_sorry:
+  - text: I'm sorry, I can't help with your question, Please contact a super user.
+  utter_gratitude:
+  - text: Thank you for using the FAQbot today.
+  utter_ask_again:
+  - text: No issues! Let's try this again. Please repeat your question?
+actions:
+- actions.ActionGetFAQAnswer
+- action_get_answer
+- utter_greet
+- utter_goodbye
+- utter_default
+- utter_ask_need_help
+- utter_ask_need_more_help
+- utter_sorry
+- utter_gratitude
+- utter_ask_again
+- utter_ask_me_question

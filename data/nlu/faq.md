@@ -1,0 +1,148 @@
+## intent:affirm
+- okay
+- Yes, thanks
+
+## intent:faq
+- If a plant exporter is unclear what to select or doesn’t see the genus they are exporting on the list, what should they do?
+- Is there a business continuity plan in the event that the system is down or is undergoing maintenance?
+- If a client has comments and wants to provide feedback, how do they do it?
+- Which countries currently accept electronic signatures?
+- As an inspector, what should I do if I see that the Party profile information is incorrect or is still pending validation?
+- Can I review previous inspection cases, notes, etc., in DSDP to help me prepare for an inspection?
+- I work in a regional office and part of my job involves processing export certificates. Will I be involved in the new export certification process?
+- How will it work for accredited veterinarians who sign certificates on behalf of the CFIA? Will they have access to DSDP?
+- Who is responsible for validating a My CFIA party profile?
+- As a CFIA veterinarian, I sign export certificates for live animals. How will this process change?
+- What is the current service standard for the issuing of phytosanitary certificates?
+- In some regions, there is an office that issues certain types of export certificates, for example, the Phyto Processing Office issues all phytosanitary certificates for the Western Area. Is this changing?
+- How do external stakeholders access the new services?
+- How do I create, find and share Advanced find views and dashboards?
+- How will certificates be signed?
+- What happens if the system goes down and someone needs an export certificate right away?
+- Do I need a password and/or an account to access the DSDP?
+- Who uploads the animal health export certificate into My CFIA?
+- Is training for staff available?
+- Is there going to be after hours support for DSDP?
+- When will the electronic certificates process be rolled-out fully?
+- How will we know that exporters have included all the necessary documentation with their request?
+- What are the benefits to industry of using My CFIA for export certificates?
+- Will district offices that are part of the EEEC (Electronic Exchange of Export Certificates for cattle and bison to the USA) pilot adopt the use of DSDP?
+- When will the new services be available?
+- If an exporter needs multiple phytosanitary certificates, can they re-use their application?
+- What new functionality does the DSDP provide?
+- Can certificates be amended?
+- If I can’t find the establishment in DSDP, how can I have it added?
+- Will the new system be able to support multiple phytosanitary certificates coming from a single inspection?
+- What hours of the day and days of the week are the DSDP and My CFIA available?
+- Will it be possible to see all the requests from an exporter?
+- Will US border staff still have advance access to certificates through an online system?
+- How do the new Safe Food for Canadians regulations affect the new services and work processes?
+- What countries are accepting electronic phytosanitary certificates?
+- Once a certificate is issued can it be seen in the online certificate viewer/authenticator right away or is there a delay?
+- Can an individual apply for an export certificate through My CFIA?
+- How do I search for a licence/application?
+- Will the rollout of the new services online have an impact on Programs resources?
+- In the current system, there is a form to use off-line in the event the system becomes unavailable. Will this form continue to be used when phyotosanitary certification moves to DSDP?
+- If someone needs an export certificate and they are not enrolled in My CFIA, how can they get one?
+- What happens if the requirements for the specific commodity and country are not included in My CFIA?
+- What role is the administration staff (Phyto group) going to have with the new system?
+- I’m an inspector who issues export certificates. How will the new electronic export certification process affect me?
+- Do importing countries know about the new export certification process?
+- Will it be possible to upload animal ID data into DSDP or will it have to be manually entered into the export application form?
+- Can an application be denied and how is that done?
+- If an import permit is required for the export certificate, does that need to be submitted as part of the application process?
+- As an inspector, how will I know if there is an export task ready for me in the queue?
+- What if those who use the transferred services don’t have an Internet connection or use a computer?
+- If exporters have questions, where should they be sent?
+- If the certificate is for a country that does not accept electronic signatures, how are the certificates issued?
+- How long after an export request is submitted into My CFIA will we be able to see it in DSDP?
+- Will CFIA inspection staff have access to what clients are seeing in My CFIA so they can help them if they are having a problem?
+- Are all services being transferred over to the DSDP?
+- What do I do if I see that the Party profile is still pending validation?
+- How are participants chosen?
+- Once a certificate has been signed / issued is it still visible?
+- How do clients know which permissions and export certificates they can request online and which they cannot?
+- If an export requires both a phytosanitary certificate and another type of certification under a different program, such as food, do they submit one application or two?
+- Can applications be resubmitted?
+- What is the Digital Service Delivery Platform?
+- Why is the Agency automating the export certification process?
+- Will there be a service delivery time standard for export certification across all three business lines?
+- Will we still need to upload documents received by email into RDIMS or the O: drive?
+- Can all office staff access cases for that office?
+- If a foreign country accepts electronic signatures, is there still a need to include a print copy of the certificate with the shipment?
+- Why do we need a digital platform?
+- If an applicant is requesting certification for an export that includes a combination of plant material that requires a phytosanitary certificate and plant material requiring certification for re-export, do they submit two separate applications?
+- Will there be any changes to export requirements as a result of electronic export certification?
+- What will happen to our old systems and data?
+- Is the accredited veterinarians manual going to be updated and information provided to these veterinarians?
+- Is there going to be training? If so, what kind of training? When do I need to take it?
+- Are unions aware of the DSDP and the implementation plan?
+- Is there any other support available?
+- Can brokers request a specific / different office?
+- How will the system be set-up to ensure the certificates can identify different groups of animals so the vets know which ones are being certified and ID them on the form?
+- Will there be someone verifying that the certificates do not contain any grammar mistakes?
+- What are the benefits to plant exporters of using My CFIA?
+- If a shipment includes plant material for both export and re-export, does the exporter need to apply for two separate certificates using two separate applications?
+- When can government-to-government transactions be used?
+- The CFIA currently uses Alternative Service Providers to support the delivery of some of our services and programs. How is this being managed in the DSDP?
+- Can My CFIA services be accessed using smartphones?
+- How will supervisors or administrators receive export request in DSDP?
+- Can an exporter request a certificate after the shipment has left Canada?
+- If I have questions, whom should I contact?
+- How do I load documents into DSDP?
+- How are invoices created?
+- How will individual export certificates from the same broker be differentiated in the system?
+- Will the Canadian Heat Treated Wood Products Certification Heat Treatment (HT) program still exist or will all applications have to be inspected?
+- Is industry being trained in how to use the new system and services?
+- Has the union been informed?
+- What is changing?
+- I work in Policy and Programs Branch (PPB). What will the DSDP mean for my work?
+- How do exporters pay for their certificates?
+- What happens if, when printing the original, something goes wrong with their printer? How is a new one obtained – do they have to apply all over again?
+- What does the accredited vet see on the certificate?
+- Why are we moving to electronic phyotosanitary certification so quickly?
+- If an exporter loses or damages a certificate, can they get a replacement?
+- How secure is the information we’re capturing in the system? Is it subject to Access to Information and Privacy (ATIP) requests?
+- How do I search for an Establishment?
+- Are paper copies required to be kept in the office?
+- Which export certificates can exporters apply for using My CFIA?
+- How is the Agency implementing the change?
+- Is a laser printer needed to print export certificates?
+- Have our trading partners been informed about the DSDP?
+- If I search for an establishment in DSDP and find more than one profile for the same establishment or if I notice an error in the profile, what should I do?
+- Are we sharing the information we capture about our stakeholders with partner organizations?
+- Can the assigned sub-districts be changed?
+- How will the system make sure that the exporter doesn’t make multiple print copies of the electronic certificate?
+- How is industry being notified of the availability of My CFIA services?
+- countries that take electronic certificates
+- countries that accept electronic certificate
+- which countries accept electronic certificates
+- countries that accept electronic certificates
+- countries with electronic certificate
+- I am looking for some information on PhytoSanitary certificates
+- what is phytosanitary certificate
+- Can I know about phytosanitary certificate
+- What is phytosanitary certificate
+- how will rollout of the new services online have an impact resources
+- "Who is responsible for validating a My CFIA party profile?
+- s a CFIA veterinarian, I sign export certificates for live animals. How will this process change?
+- why am  I here
+- I am looking for information on phytosanitary certificates
+- I am looking for information on phytosanitary certificate
+- What is Google
+- What countries accept electronic signatures?
+- Whaatt is the current standard for issuing phytosanitary certificate
+- How do I create, find and share Advanced find views and dashboards?"
+- share advanced find views and dashboards
+- create advanced findviews
+- Where can I find a satel
+- Where can I get a satellite
+- why am I bored
+- plant exporter species
+- A plant exporter cannot find a species they are exporting on the list, what to do
+
+## intent:greet
+- hey
+- what are you
+- hi
+- hello bot

@@ -1,0 +1,121 @@
+## intent:affirm
+- OK
+- Yes
+- y
+- Y
+- yes
+- yes sure
+- absolutely
+- for sure
+- yes yes yes
+- definitely
+- yes, it did.
+- yes thank you
+- find me something
+
+## intent:deny
+- no
+- No
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- n
+- N
+- no thank you
+
+## intent:faq
+- ]plant exporter is not sure what to select what should they do
+- If a plant exporter  doesn’t see the genus they are exporting on the list, what should they do?
+- plant exporter cannot find the genus they are exporting on the list, what should they do
+- what should a plant exporter do if they are unclear about the type
+- what should plant exporter do if they do not see the genus they are exporting on the list
+- can I look at past inspection cases in DSDP to prepare for inspection
+- Which countries currently accept electronic signatures
+- Who is responsible for validating a My CFIA party profile
+- can applications be resubi
+- what are photosanitary certificates
+- Can applications be submitted again?
+- How are participants chosen
+- As a CFIA veterinarian, I sign export certificates for live animals. How will this process change
+- phytosanitary certificate
+- what countries accept electronic signatures
+- Find me something
+- what is. google
+- what is mycfia
+- mycfia
+- why is the sky pink
+- pink sky
+- what is myCFIA
+- I am looking for information on phytosanitary
+- Do I need a password and/or an account to access the DSDP
+- Do I need a login  account to access the DSDP
+- What is google
+- what is this
+- Why is this
+- latest service standard for issuing phytosanitary certificate
+- What is Googhfle
+- How will certificates be signed
+- do I need a login account to access the DSDP
+- do I need a login account to access the  DSDP
+
+## intent:goodbye
+- Bye
+- Goodbye
+- See you later
+- Bye bot
+- Goodbye friend
+- bye
+- bye for now
+- catch you later
+- gotta go
+- See you
+- goodnight
+- have a nice day
+- i'm off
+- see you later alligator
+- we'll speak soon
+- end
+- finish
+
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- who are you?
+- what are you?
+- what's up
+- how do you do?
+- hello
+
+## intent:thanks
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+- Cool thank you
+- thanks

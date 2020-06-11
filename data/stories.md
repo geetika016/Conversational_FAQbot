@@ -1,0 +1,148 @@
+## greet_story
+* greet
+  - utter_greet
+
+## goodbye_story
+* goodbye
+  - utter_goodbye
+
+## Story_1
+* greet
+    - utter_greet
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* deny
+    - utter_default
+* faq
+    - action_get_answer
+* deny
+    - utter_sorry
+* affirm
+    - utter_goodbye
+
+## Story_2
+* greet
+    - utter_greet
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* deny
+    - utter_default
+* faq
+    - action_get_answer
+* deny
+    - utter_sorry
+    - utter_ask_need_more_help
+* deny
+    - utter_goodbye
+
+## Story_3
+* greet
+    - utter_greet
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* deny
+    - utter_gratitude
+
+## Story_4
+* greet
+    - utter_greet
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* affirm
+    - utter_ask_me_question
+* faq
+    - action_get_answer
+* affirm
+    - utter_ask_need_more_help
+* deny
+    - utter_goodbye
+
+## Story_5
+* greet
+    - utter_greet
+* faq
+    - action_get_answer
+* deny
+    - utter_goodbye

@@ -1,0 +1,557 @@
+[
+    {
+        "q": "If a plant exporter is unclear what to select or doesn’t see the genus they are exporting on the list, what should they do?",
+        "a": "If an exporter is unclear about what to select, they can contact their local office for assistance, as they do now.   If the specific commodity/country combination is not in the system, it will need to be added for an export certificate to be generated. To have a genus added, the inspector will first need to check the Foreign Plant Quarantine Import Requirements (FPQIR) to verify that the genus should be on the list. The inspector will then need to send a request to the Foreign Legislation Unit (FLU) to have the genus added using the same process used now for requesting that a genus be added into the Export Certification System (ECS).",
+        "index": 0
+    },
+    {
+        "q": "Is there a business continuity plan in the event that the system is down or is undergoing maintenance?",
+        "a": "Business continuity plans are being developed. They will address various scenarios that include planned and unplanned outages. The plan will ensure minimal disruption of business delivery",
+        "index": 1
+    },
+    {
+        "q": "If a client has comments and wants to provide feedback, how do they do it?",
+        "a": "There is a feedback button on the My CFIA page.",
+        "index": 2
+    },
+    {
+        "q": "Which countries currently accept electronic signatures?",
+        "a": "The list of countries that accept electronic signatures changes frequently. There are currently 16 countries, including the US, that accept electronic signatures for some export certificates. DSDP will indicate which type of signature is required as part of the certificate issuing process",
+        "index": 3
+    },
+    {
+        "q": "As an inspector, what should I do if I see that the Party profile information is incorrect or is still pending validation?",
+        "a": "The CoA is responsible for validating party profiles so no action is required by inspection staff. If you notice incorrect party profile information, then please follow the guidance outlined in ‘How to respond to industry questions regarding MyCFIA’ on the Merlin DSDP page.",
+        "index": 4
+    },
+    {
+        "q": "Can I review previous inspection cases, notes, etc., in DSDP to help me prepare for an inspection?",
+        "a": "Yes. When viewing a Party or Establishment profile, you can open sub-areas by hovering over the top command bar. You will be presented with views associated with that particular establishment (e.g., inactive inspection cases, non-compliances, etc.). Opening one of these records will allow you to quickly jump to the next record in the list using the up and down arrow icons at the top right hand corner of your screen. You can also use the pop-out icon to open multiple records at the same time",
+        "index": 5
+    },
+    {
+        "q": "I work in a regional office and part of my job involves processing export certificates. Will I be involved in the new export certification process?",
+        "a": "While much of the export application process will be delivered as an online automated service, there will continue to be a need to manage, coordinate and issue export certificates within CFIA offices, and respond to applicants’ questions.   Details will be available on the DSDP page of Merlin.",
+        "index": 6
+    },
+    {
+        "q": "How will it work for accredited veterinarians who sign certificates on behalf of the CFIA? Will they have access to DSDP?",
+        "a": "Veterinarians accredited by the CFIA are encouraged to enrol as an Alternative Service Provider (ASP) in My CFIA. Exporters who are enrolled in My CFIA can then use My CFIA to assign an ASP to examine, test, and certify eligibility of livestock being exported.   The ASP will receive an email notification of the task to be performed. They will then complete the task indicating their inspection decision, electronically sign the certificate where requirements were met, and close the task.",
+        "index": 7
+    },
+    {
+        "q": "Who is responsible for validating a My CFIA party profile?",
+        "a": "CFIA staff working in the Centre of Administration (CoA) validate that the information provided by the client during the enrolment process is accurate.",
+        "index": 8
+    },
+    {
+        "q": "As a CFIA veterinarian, I sign export certificates for live animals. How will this process change?",
+        "a": "Veterinarians who currently complete and sign export certificates will continue to do so for those certificates where an ink signature is required. For those certificates for which electronic signatures have been negotiated, veterinarians will be able to sign the certificate electronically within DSDP.",
+        "index": 9
+    },
+    {
+        "q": "What is the current service standard for the issuing of phytosanitary certificates?",
+        "a": "The policy states that phytosanitary certificates are to be issued within 10 working days; however, there may be some variation across local offices. For now, local protocols should continue to be followed.",
+        "index": 10
+    },
+    {
+        "q": "In some regions, there is an office that issues certain types of export certificates, for example, the Phyto Processing Office issues all phytosanitary certificates for the Western Area. Is this changing? ",
+        "a": "No, policies and regional processes are not changing. This includes who signs certificates and who invoices for them. If district offices are currently issuing them, this practice will continue. Inspection requirements will also remain the same. For example, (Foreign Plant Quarantine Import Requirement) FPQIR information must still be used to verify inspection requirements outside of DSDP.",
+        "index": 11
+    },
+    {
+        "q": "How do external stakeholders access the new services?",
+        "a": "External stakeholders can access the new services available through My CFIA, on our external website.",
+        "index": 12
+    },
+    {
+        "q": "How do I create, find and share Advanced find views and dashboards?",
+        "a": "The steps for how to create, find and share advanced findviews and dashboards are outlined in the DSDP SOPs Advanced find (RDIMS 9142683) and Create a custom Dashboard (RDIMS 9766497) ",
+        "index": 13
+    },
+    {
+        "q": "How will certificates be signed?",
+        "a": "Depending on what was negotiated with the importing country, the system will specify as part of the certificate creation process whether the certificate is to be :   (a)printed, signed by hand, stamped and then uploaded into the system; or (b)signed electronically before being made available for printing in My CFIA.   In the future, Government to Government (G2G) will enable electronic data to be exchanged directly between governments, eliminating the need for printed certificates.  The current off-line certificate issuance process to issue a wet / ink signed certificate will continue to be available under specific circumstances. See Operational procedure: Issuing an export certificate for dairy and dairy products for details.",
+        "index": 14
+    },
+    {
+        "q": "What happens if the system goes down and someone needs an export certificate right away?",
+        "a": "The ability to generate export certificates offline is part of the business continuity plan in the event that the DSDP system becomes unavailable. Certificate numbers for off-line use are available in the Appendix 1 - Area maintained certificate tracking sheets. Each Area has its own procedure for tracking the certificate numbers to ensure numbers are only used once.",
+        "index": 15
+    },
+    {
+        "q": "Do I need a password and/or an account to access the DSDP?",
+        "a": "You need a user account to access the DSDP but you are not required to create a new password for it. To get access to DSDP, you will need to complete form 5190.",
+        "index": 16
+    },
+    {
+        "q": "Who uploads the animal health export certificate into My CFIA?",
+        "a": "Animal health export certificates are populated with information from the My CFIA online interview, so both the exporter and the accredited veterinarian will be adding information into it. The certificate is submitted by the accredited veterinarian as part of the export application process.",
+        "index": 17
+    },
+    {
+        "q": "Is training for staff available?",
+        "a": "Yes, if your work requires you to use the DSDP, training is be available to you and can be found on the DSDP page of Merlin. A unique set of supporting tools has been developed for staff. This includes both self-directed job aids (videos, infographics, tip sheets, etc.) and instructor-led training (webinar and/or classroom).   The learning paths will continue to be available for your reference so that you can go back to them when needed. To access the online training modules, you will be required to re-re-register for the course using My Account.",
+        "index": 18
+    },
+    {
+        "q": "Is there going to be after hours support for DSDP?",
+        "a": "DSDP technical support is provided through our IT helpdesk",
+        "index": 19
+    },
+    {
+        "q": "When will the electronic certificates process be rolled-out fully?",
+        "a": "It is anticipated that electronic certificate application will be fully available in the following programs at the following times:   Dairy to all destinations winter 2020   Live bovine to US winter of 2020   Fish to various destinations TBD   Plant to all destinations TBD",
+        "index": 20
+    },
+    {
+        "q": "How will we know that exporters have included all the necessary documentation with their request?",
+        "a": "As part of the application process in My CFIA, the system will indicate what documentation is required, e.g., that the permit needs to be uploaded to their application.  Once the application has been submitted, there is an initial validation task to check that the application has all the necessary components.",
+        "index": 21
+    },
+    {
+        "q": "What are the benefits to industry of using My CFIA for export certificates?",
+        "a": "My CFIA is a secure and convenient online entry point to CFIA services. Exporters can manage, track and submit a service request, anytime, anywhere.   Once enrolled, along with requesting export certificates, industry members regulated by the CFIA can use the digital portal to request other permissions such as licences, permits, registrations and authorizations online.  Businesses will be able to request and obtain phytosanitary certificates online, saving them time and avoid the need to drive, fax, or email an application to a local CFIA office.   Industry will be able to submit service requests, pay for and receive certificates electronically through the My CFIA portal, which can be accessed 24/7 to track, manage, copy, and reuse application requests; in addition, industry can access all previously issued certificates. Industry members can also invite brokers to act on behalf of their business.",
+        "index": 22
+    },
+    {
+        "q": "Will district offices that are part of the EEEC (Electronic Exchange of Export Certificates for cattle and bison to the USA) pilot adopt the use of DSDP?",
+        "a": "During full implementation stage, the EEEC pilot will be phased out and offices that were part of the EEEC pilot will move to using DSDP to issue certificates.",
+        "index": 23
+    },
+    {
+        "q": "When will the new services be available?",
+        "a": "We are phasing-in services to the new platform.   The list of available services is on the external website under My CFIA online services",
+        "index": 24
+    },
+    {
+        "q": "If an exporter needs multiple phytosanitary certificates, can they re-use their application?",
+        "a": "Yes, an exporter can submit multiple export certificate requests using a copy of the same application.",
+        "index": 25
+    },
+    {
+        "q": "What new functionality does the DSDP provide?",
+        "a": "Initially, the DSDP project has four business areas within its scope:  Enrolment – stakeholders provide information about themselves through My CFIA, including contact information, their business activities, and establishment profiles. CFIA staff have access to up-to-date information on industry stakeholders, located in one database   Permissions – the approvals that the CFIA grants to stakeholders to conduct specific activities under the Agency's mandate. Permissions include licences, permits, facility registrations, and exemptions. The DSDP will allow stakeholders to request certain permissions online.   Export – automated export certification process which allow exporters to apply online for certificates and monitor the status of their applications. Information explaining all export requirements are available online for exporters to refer to when they are filling out their application forms.    Inspection – Inspectors input inspection notes and other objective evidence and upload inspection data — including documents, images, and videos — directly into the DSDP. The system automatically generates inspection reports. In addition, inspectors have digital access to guidance documents and stakeholder histories",
+        "index": 26
+    },
+    {
+        "q": "Can certificates be amended?",
+        "a": "Amendments can be made at any point prior to the certificate being issued, including adding information about the final shipment, e.g., volume, container numbers, etc. Once the certificate is issued, no more amendments can be made.",
+        "index": 27
+    },
+    {
+        "q": "If I can’t find the establishment in DSDP, how can I have it added?",
+        "a": "To add an establishment to DSDP, you need to send a request to the Business Support Unit. But before you make a request, please contact the DSDP Business Support Unit to inquire if the establishment is in DSDP.  Once you have confirmed that the establishment is not already in DSDP, you will need to follow these steps:   1.Gather the following information: Establishment Name, Preferred Language, Address, City, Province/State/Region, Postal Code/Zip Code, Comments   2.Complete the Establishment Profile Request Template, RDIMS: 11841364    3.Name the file :Profile Request for [insert establishment name]   4.Save a copy to RDIMS folder 11863509 and grant full access to RDIMS group Ops, NID, Data, Reporting & Service.   5.Email the RDIMS reference to the Business Support Unit with the subject line : Request for Addition of Establishment Profile at: cfia.dsdpsupport-supportppes.acia@canada.ca   The requestor will receive an email confirming that the requested establishment has been added within 2 business days.     Detailed information on the process can be found in SOP Searching for Establishments (RDIMS 10859888).",
+        "index": 28
+    },
+    {
+        "q": "Will the new system be able to support multiple phytosanitary certificates coming from a single inspection?",
+        "a": "Yes. As is done currently, the inspector will need to reference the inspection activity and results in the inspection case to verify that all requirements are met before signing the certificate.",
+        "index": 29
+    },
+    {
+        "q": "What hours of the day and days of the week are the DSDP and My CFIA available?",
+        "a": "The DSDP and My CFIA are available 24 hours a day, seven days a week. Technical support, however, is provided from 7 a.m. to 7 p.m. (EST) daily",
+        "index": 30
+    },
+    {
+        "q": "Will it be possible to see all the requests from an exporter?",
+        "a": "Yes. You can search an exporter by name to see all the requests they have submitted.",
+        "index": 31
+    },
+    {
+        "q": "Will US border staff still have advance access to certificates through an online system?",
+        "a": "US border staff will be able to access issued certificates via the online certificate viewer as soon as they are endorsed. Exporters may also share copies of issued certificates or draft documents with them if required prior to the importation of products into the US.",
+        "index": 32
+    },
+    {
+        "q": "How do the new Safe Food for Canadians regulations affect the new services and work processes?",
+        "a": "The services and work processes have been developed to work with the existing regulations as well as with the new Safe Food for Canadians regulations",
+        "index": 33
+    },
+    {
+        "q": "What countries are accepting electronic phytosanitary certificates?",
+        "a": "Negotiations are underway for electronic signature acceptance on a country-by-country basis. Some countries have already agreed to accepted electronic certificates.",
+        "index": 34
+    },
+    {
+        "q": "Once a certificate is issued can it be seen in the online certificate viewer/authenticator right away or is there a delay?",
+        "a": "There is no delay for electronically issued certificates. As soon as the inspector marks the certificate record as issued, a redacted copy is immediately available for viewing.",
+        "index": 35
+    },
+    {
+        "q": "Can an individual apply for an export certificate through My CFIA?",
+        "a": "Yes, an individual can enrol in My CFIA and request an export certificate. The option also exists for a business that is enrolled in My CFIA to complete the export certification process on behalf of a consumer, such as in the case of a nursery applying for a phyotosanitary certificate on behalf of a consumer in a foreign country.",
+        "index": 36
+    },
+    {
+        "q": "How do I search for a licence/application?",
+        "a": "Licence/applications can be found under “Permissions” and then “Cases”. Once you have selected Cases, select ‘SFC Licensing Permission Cases’ from the ‘System Views’ drop down menu. Click on the filter icon on the far right side of the column headers. Using either the ‘Legal Name’ or ‘Party’ column, select ‘Custom Filter’ from the drop down menu. Under Select Operator, select ‘contains’ and enter a business name. Select the appropriate party and double click on the ‘Case ID’ to open the permissions case to view the SFC Licence activities.   Detailed information on the process can be found in SOP SFC Licence Application Search (RDIMS 11466749) .",
+        "index": 37
+    },
+    {
+        "q": "Will the rollout of the new services online have an impact on Programs resources?",
+        "a": "We do not anticipate an impact on Programs resource requirements as a result of offering services online. The ability to extract comprehensive data for trend analysis and risk assessment should however facilitate our work by allowing us to understand more fully how we can best direct the use of our resources",
+        "index": 38
+    },
+    {
+        "q": "In the current system, there is a form to use off-line in the event the system becomes unavailable. Will this form continue to be used when phyotosanitary certification moves to DSDP?",
+        "a": "Yes, the current form CFIA/ACIA 3369 will be updated and continue to be used for business continuity purposes, and will use the new off-line numbering schema.",
+        "index": 39
+    },
+    {
+        "q": "If someone needs an export certificate and they are not enrolled in My CFIA, how can they get one?",
+        "a": "Exporters will be encouraged to enrol in My CFIA; however, the option to apply for an export certificate outside of the system will remain available for special circumstances and to support business continuity procedures.  See Operational procedure: Issuing an export certificate for dairy and dairy products for details.",
+        "index": 40
+    },
+    {
+        "q": "What happens if the requirements for the specific commodity and country are not included in My CFIA?",
+        "a": "If an exporter cannot find the requirements for the specific commodity and country in My CFIA, they will contact their local office. When this happens, the Authorized Certification Official (ACO) will need to have the requirements added to My CFIA. The exporter will then need to amend their request in My CFIA to include the correct requirements. Details on how this process will work have yet to be determined.",
+        "index": 41
+    },
+    {
+        "q": "What role is the administration staff (Phyto group) going to have with the new system? ",
+        "a": "For offices that have dedicated phytosanitary administrative support, administrative staff will be responsible for tasks such as validating export requests, assigning tasks to regional/district teams, adding further details into certificates, contacting applicant to request additional information needed to complete their applications, creating invoices, etc. In offices without administrative support, the inspectors will complete these tasks.",
+        "index": 42
+    },
+    {
+        "q": "I’m an inspector who issues export certificates. How will the new electronic export certification process affect me? ",
+        "a": "The inspection work and export requirements are not changing with the implementation of DSDP. The only change being introduced is how the certificates are issued. Inspectors, and other staff involved in the issuance of export certificates, will need to complete the training and learn how to use DSDP. There are several layers to DSDP functionality so it is important to become comfortable within the platform. DSDP super users are available to provide support.",
+        "index": 43
+    },
+    {
+        "q": "Do importing countries know about the new export certification process?",
+        "a": "CFIA recently notified its international trading partners of the upcoming move to electronic dairy export certificates. In the letter, trading partners were made aware of the Agency's plan to continue to add additional export certifications in My CFIA, as per the World Trade Organization Notification that was published last year",
+        "index": 44
+    },
+    {
+        "q": "Will it be possible to upload animal ID data into DSDP or will it have to be manually entered into the export application form?",
+        "a": "CSV file uploads will be possible, allowing spreadsheets containing data to be upload into the export application.",
+        "index": 45
+    },
+    {
+        "q": "Can an application be denied and how is that done?",
+        "a": "An exporter who has submitted an export application using My CFIA must meet the same export requirements as they currently do in order to receive an export certificate. As the exporter completes the application process, the requirements will be identified and any necessary portal tasks will be assigned. These must be completed for the certificate to be issued.   See Export the SOP, section 6.1.6 for more details (RDIMS: 10879109).",
+        "index": 46
+    },
+    {
+        "q": "If an import permit is required for the export certificate, does that need to be submitted as part of the application process?",
+        "a": "Yes, if it is an export requirement, the import permit would need to be submitted with the application.",
+        "index": 47
+    },
+    {
+        "q": "As an inspector, how will I know if there is an export task ready for me in the queue?",
+        "a": "Inspectors will need to monitor their DSDP dashboard to see if new tasks have been assigned to them or if the status of an export request they are working on has changed, for example, if the exporter has amended their request or completed a portal task.",
+        "index": 48
+    },
+    {
+        "q": "What if those who use the transferred services don’t have an Internet connection or use a computer?",
+        "a": "We will continue to provide the option of accessing services through other channels for those stakeholders who need it",
+        "index": 49
+    },
+    {
+        "q": "If exporters have questions, where should they be sent?",
+        "a": "If Area staff are approached by stakeholders with DSDP related questions, they should first direct them to the My CFIA User Guidance page, where step-by-step walkthroughs, videos and questions and answers are available. This page will help stakeholders find the information they need to adopt and continue to use the My CFIA system successfully, with limited support.  If stakeholders are unable to find the information they are looking for on export certification available in DSDP, they should then call 1-800-442-2342 between the hours of 7a.m and 7p.m EST. Trained, first-contact phone agents in Service Canada and the National Service Centre, will help them with MyCFIA Support questions (including enrolment) and resolving issues encountered (error screens) through the export application process. If the agents are unable to assist, the enquiry will be triaged as per the established enquiries’ triage process (RDIMS 11883040).   While the service is being digitized, Area staff will still be responsible for answering export questions for commodities not yet available in DSDP, on complex issues linked to an application in progress, active export shipments and Regulatory enquiries (plant and animal).   Additional information on responding to industry questions about My CFIA can be found on the DSDP Merlin page.",
+        "index": 50
+    },
+    {
+        "q": "If the certificate is for a country that does not accept electronic signatures, how are the certificates issued?",
+        "a": "All certificate requests will be processed in DSDP. If the certificate and country combination is not set up for electronic signatures, then when the certificate is complete with all the required information, it will be printed off by the inspector and signed in ink. Pick-up or delivery will be coordinated as per existing processes",
+        "index": 51
+    },
+    {
+        "q": "How long after an export request is submitted into My CFIA will we be able to see it in DSDP?",
+        "a": "There is no delayed processing time or similar before you can see submissions. You will be able to see them in DSDP immediately.",
+        "index": 52
+    },
+    {
+        "q": "Will CFIA inspection staff have access to what clients are seeing in My CFIA so they can help them if they are having a problem?",
+        "a": "CFIA staff have access to the system through DSDP only, which looks very different to what external client see in My CFIA. Clients who are having problems with My CFIA should be directed to the My CFIA user guidance on-line. If this does not address their needs, then they should call 1-800-442-CFIA (2342) for assistance. More information on How to respond to industry questions about My CFIA can be found on Merlin",
+        "index": 53
+    },
+    {
+        "q": "Are all services being transferred over to the DSDP?",
+        "a": "In keeping with the Agency’s digital first strategy, we will offer services online to the extent possible.   For now, we are transferring select services related to enrolment, permissions, export and inspection.",
+        "index": 54
+    },
+    {
+        "q": "What do I do if I see that the Party profile is still pending validation?",
+        "a": "The CoA is responsible for validating party profiles so no action is required on your part when they are pending validation. ",
+        "index": 55
+    },
+    {
+        "q": "How are participants chosen?",
+        "a": "Participants are selected based on various criteria, including volume of export and whether the company is ready and willing to participate in the pilot.",
+        "index": 56
+    },
+    {
+        "q": "Once a certificate has been signed / issued is it still visible?",
+        "a": "Once a certificate has been signed and issued the status is updated to “Issued” and the export case then becomes inactive. It is still visible in the system but it will no longer show up in the queue as requiring action",
+        "index": 57
+    },
+    {
+        "q": "How do clients know which permissions and export certificates they can request online and which they cannot?",
+        "a": "The list of available services is on the external website under My CFIA online services",
+        "index": 58
+    },
+    {
+        "q": "If an export requires both a phytosanitary certificate and another type of certification under a different program, such as food, do they submit one application or two?",
+        "a": "It would require two applications – one for each business line. During the My  CFIA interview process, applicants must select a single business line as one of the first steps in identifying which certificate is required, so they would need to go through this process twice.",
+        "index": 59
+    },
+    {
+        "q": "Can applications be resubmitted?",
+        "a": "Yes. All applications – completed or partial – remain in My CFIA and can be reused as a template for future submissions",
+        "index": 60
+    },
+    {
+        "q": "What is the Digital Service Delivery Platform?",
+        "a": "DSDP provides a single digital platform for the business of the CFIA. This includes both the ability to offer our services online to external stakeholders, and to house our inspection data in one place",
+        "index": 61
+    },
+    {
+        "q": "Why is the Agency automating the export certification process?",
+        "a": "Implementation of a modernized export certification process will enable the Agency to respond to the increased demand for fast and efficient export certification in a manner that reflects the Agency’s new inspection model. In addition, by relieving the inspectorate of most administrative tasks related to export certification, inspectors will be able to concentrate on their key function of delivering inspection activities. ",
+        "index": 62
+    },
+    {
+        "q": "Will there be a service delivery time standard for export certification across all three business lines?",
+        "a": "The various export commodities have different requirements and so the current service delivery standards will remain as per existing policies.",
+        "index": 63
+    },
+    {
+        "q": "Will we still need to upload documents received by email into RDIMS or the O: drive?",
+        "a": "No, any supporting documents provided that relate to an export case will be contained in that export case file in DSDP. If the client did not upload them as part of the original request, a Portal task can be sent asking them to do so. In that manner, the export case on DSDP becomes a standalone, auditable file which contains all the required information and details.",
+        "index": 64
+    },
+    {
+        "q": "Can all office staff access cases for that office?",
+        "a": "Everyone with DSDP access can see every case in the system, but only the person / team assigned to a file or who has picked it (assigned it to themselves) can edit / action it.",
+        "index": 65
+    },
+    {
+        "q": "If a foreign country accepts electronic signatures, is there still a need to include a print copy of the certificate with the shipment?",
+        "a": "The acceptance of electronic signatures does not change import requirements. If a country currently requires that a print copy of the export certificate accompany the shipment, that requirement remains.",
+        "index": 66
+    },
+    {
+        "q": "Why do we need a digital platform?",
+        "a": "DSDP supports the modernization of our work.Longer term, the DSDP will give industry access to additional services, CFIA staff access to comprehensive, centralized information allowing for the generation of reports and extraction of data, and the Agency a better understanding of the risk environment",
+        "index": 67
+    },
+    {
+        "q": "If an applicant is requesting certification for an export that includes a combination of plant material that requires a phytosanitary certificate and plant material requiring certification for re-export, do they submit two separate applications?",
+        "a": "My CFIA includes both forms as part of a single application. Applicants will have the option of identify both “for export” and “for re-export” as well as origin, growing area, etc. during the interview process. The system will generate both the export and re-export forms.",
+        "index": 68
+    },
+    {
+        "q": "Will there be any changes to export requirements as a result of electronic export certification?",
+        "a": "Moving to electronic certification will not impact export requirements. Through DSDP, inspectors will have easier access to export requirements.",
+        "index": 69
+    },
+    {
+        "q": "What will happen to our old systems and data?",
+        "a": "We are developing a strategy for de-commissioning some systems. Our plan will ensure business continuity throughout implementation. No legacy system will be de-commissioned before their activities have been successfully transferred into the DSDP",
+        "index": 70
+    },
+    {
+        "q": "Is the accredited veterinarians manual going to be updated and information provided to these veterinarians?",
+        "a": "Yes, updates will occur as needed. Information for Alternate Service Providers is available on the external website.",
+        "index": 71
+    },
+    {
+        "q": "Is there going to be training? If so, what kind of training? When do I need to take it?",
+        "a": "Learning paths have been developed for inspection staff and Area administrative staff who conduct export activities. The learning paths can be found on the DSDP page on Merlin.",
+        "index": 72
+    },
+    {
+        "q": "Are unions aware of the DSDP and the implementation plan?",
+        "a": "Yes, the unions have been informed and will continue to be kept up-to-date as we progress.",
+        "index": 73
+    },
+    {
+        "q": "Is there any other support available?",
+        "a": "Webinars for staff involved in export certification were recorded and are available on the Operations Branch SharePoint site. Field-level support in using DSDP is available through DSDP SuperUsers (RDIMS: 11435951).",
+        "index": 74
+    },
+    {
+        "q": "Can brokers request a specific / different office?",
+        "a": "As per the current practice, the case would be routed to the office closest to the load to be inspected by the accredited veterinarian. The broker would need to indicate in their request if a different sub-district is needed, along with justification for the change",
+        "index": 75
+    },
+    {
+        "q": "How will the system be set-up to ensure the certificates can identify different groups of animals so the vets know which ones are being certified and ID them on the form?",
+        "a": "Unique identifying information is added by the applicant during the online interview. There is a free text box where “any additional information” can be provided as well as lot numbers and load sizes. The exporter also names the export request as part of the process and can follow whatever naming convention is helpful to them.",
+        "index": 76
+    },
+    {
+        "q": "Will there be someone verifying that the certificates do not contain any grammar mistakes?",
+        "a": "The Authorized Certification Official (ACO) will check the phytosanitary certificate as per the current process.  If amendments are required by the applicant they will request the amendments and place the application status on hold.",
+        "index": 77
+    },
+    {
+        "q": "What are the benefits to plant exporters of using My CFIA?",
+        "a": "As a plant exporter, other key benefits for doing business in My CFIA include the ability to:   Immediately determine export requirements for your online service request;   Access a draft phytosanitary certificate early in the process;   Add details about your certificate online at your convenience;   Create templates for frequently exported product and destination combinations;   Copy a previous application for a new request;   Request an amendment online (e.g. for shipment detail changes);   Upload lab results required for your service request;   Draft certificates required for preclearance into an importing country;   Modify transportation and consignee details prior to certificate issuance; and,  Request replacement certificates.",
+        "index": 78
+    },
+    {
+        "q": "If a shipment includes plant material for both export and re-export, does the exporter need to apply for two separate certificates using two separate applications? ",
+        "a": "The system is built to accommodate both forms. When an applicant fills out a service request, they will answer a series of questions which will identify things like “for export” or “for re-export” as well as origin, growing area, etc. If the service request includes items for export as well as for re-export, then both forms will be generated within that single application.",
+        "index": 79
+    },
+    {
+        "q": "When can government-to-government transactions be used?",
+        "a": "The Agency continues to work with countries directly on acceptance of electronic export certificates to support government-to-government transactions.",
+        "index": 80
+    },
+    {
+        "q": "The CFIA currently uses Alternative Service Providers to support the delivery of some of our services and programs. How is this being managed in the DSDP?",
+        "a": "Alternative Service Providers (ASPs) have access to My CFIA. They enrol and create a Contact Profile the same way as an individual does, and then they enrol as an ASP. Businesses requesting services are able to invite ASPs to complete tasks and upload documents as needed",
+        "index": 81
+    },
+    {
+        "q": "Can My CFIA services be accessed using smartphones?",
+        "a": "Yes, My CFIA is designed to be compatible with smartphones. Content is left aligned to make use of smart devices possible",
+        "index": 82
+    },
+    {
+        "q": "How will supervisors or administrators receive export request in DSDP? ",
+        "a": "The process will be similar to how export requests are currently received and assigned in the regions. All export requests will be found in the Export Queue in DSDP. The system can be set up so that a district office can have their location’s requests as a default view (custom dashboard). The office will review the queue and assign export cases to inspectors as needed. Note that the details of the process have not yet been finalized and may be modified based on the results of the pilots",
+        "index": 83
+    },
+    {
+        "q": "Can an exporter request a certificate after the shipment has left Canada?",
+        "a": "No, the system will only allow a certificate to be created prior to the shipment leaving Canada. As part of the certificate request process, exporters must attest that the information they enter into the system, including the shipping date, is true.",
+        "index": 84
+    },
+    {
+        "q": "If I have questions, whom should I contact?",
+        "a": "For questions related to the pilots, you can contact the pilot leads:   Dairy - Romain Teasdale   Fish & aquatic animal health - Mark MacDonald    Phytosanitary - Cara Grant, Linda Murphy and Rachel Wheat   Live bovine to the US - Rachel Wheat   For system-related questions, contact your local DSDP Super User (RDIMS 11435951).  For export/policy related questions, you should follow the regular established processes.",
+        "index": 85
+    },
+    {
+        "q": "How do I load documents into DSDP?",
+        "a": "You can load a saved copy of a supporting document (e.g., photo, scan of record, evaluation grid or other traditional type of worksheet used to capture commodity evaluation data), from within the Inspection Task.   Under “Documents”, select the ‘+’ icon. Select the appropriate ‘Document Type’ and click “Save”. If no ‘Document Type’ selection matches your need, leave this field blank. Once the New Document page is saved, click in the field called ‘Enter a note’. In the ‘Title’ field, type an appropriate name, and a description if needed.  Then click on ‘Attach’. Click on ‘Browse’ and select your document. Click ‘Open’ and then ‘Done’.   Detailed information on the process can be found in SOP Conducting an Inspection (RDIMS 9839405).",
+        "index": 86
+    },
+    {
+        "q": "How are invoices created?",
+        "a": "Invoicing is initiated by an inspector or administrator and the invoice is created using the current process. The billing process must be completed and payment received before the certificate is issued unless the exporter is on-account and their account is in good standing.",
+        "index": 87
+    },
+    {
+        "q": "How will individual export certificates from the same broker be differentiated in the system?",
+        "a": "Each application will be a separate export cases and assigned a unique system ID number. It will contain all of the export application details provided by the exporter / broker.",
+        "index": 88
+    },
+    {
+        "q": "Will the Canadian Heat Treated Wood Products Certification Heat Treatment (HT) program still exist or will all applications have to be inspected?",
+        "a": "Using DSDP to issue phytosanitary certificates does not change our current programs or policies. This program and other compliance agreement programs will continue to exist.",
+        "index": 89
+    },
+    {
+        "q": "Is industry being trained in how to use the new system and services?",
+        "a": "Online help, including resource documents, videos and Q&As are easily available from the My CFIA page. Stakeholders with system related questions can check the Agency's My CFIA user guidance page. If they are unable to find the information they need, industry members are encouraged to then call 1-800-442-2342 between the hours of 7a.m and 7p.m EST, where they can reach staff members trained to help.   The CFIA's phone agents are industry's first point of contact and are equipped to answer a wide range of general questions about CFIA programs. These phone agents will triage questions to subject matter experts within the Agency if necessary. Stakeholders with questions related to services that are not yet available via My CFIA and those that are inspection-related may be redirected to their local CFIA office. A complete list of which services are available through My CFIA can be found on the My CFIA online services page.",
+        "index": 90
+    },
+    {
+        "q": "Has the union been informed?",
+        "a": "Yes, the union is aware of the project plans and will be kept informed throughout implementation",
+        "index": 91
+    },
+    {
+        "q": "What is changing?",
+        "a": "The CFIA is automating how industry applies for export certificates and how the Agency processes requests and issues certificates. ",
+        "index": 92
+    },
+    {
+        "q": "I work in Policy and Programs Branch (PPB). What will the DSDP mean for my work?",
+        "a": "By creating a single platform housing all our inspection-related data, PPB staff have access to more robust data and reports from the DSDP for informed decision making and future program design.",
+        "index": 93
+    },
+    {
+        "q": "How do exporters pay for their certificates?",
+        "a": "Exporters will be required to pay in advance for their certification. They will have the option of paying through My CFIA if they have an on account number or are paying by credit card. They will also have the option to pay by cheque or cash at a regional office; however, this may result in delays since the cash or cheque will need to be received by the Accounts Receivable Centre before the certificate will be issued.",
+        "index": 94
+    },
+    {
+        "q": "What happens if, when printing the original, something goes wrong with their printer? How is a new one obtained – do they have to apply all over again?",
+        "a": "An export certificate replacement request can be made by the applicant, the CFIA, and in the case of a G2G certificate, by the Foreign Competent Authority. If replacement criteria have been met, a replacement certificate may be issued at the discretion of the inspector.",
+        "index": 95
+    },
+    {
+        "q": "What does the accredited vet see on the certificate?",
+        "a": "The accredited vets can see everything that has been submitted as part of the application, including any annexes.",
+        "index": 96
+    },
+    {
+        "q": "Why are we moving to electronic phyotosanitary certification so quickly?",
+        "a": "The launch is being completed over a relatively short period of time in order to minimize disruption to trade, risks due to using multiple systems and problems related to issuing multiple versions of certificates.",
+        "index": 97
+    },
+    {
+        "q": "If an exporter loses or damages a certificate, can they get a replacement?",
+        "a": "An export certificate replacement request can be made by the applicant, the CFIA, and in the case of a G2G certificate, by the Foreign Competent Authority. If replacement criteria have been met, a replacement certificate may be issued at the discretion of the inspector",
+        "index": 98
+    },
+    {
+        "q": "How secure is the information we’re capturing in the system? Is it subject to Access to Information and Privacy (ATIP) requests?",
+        "a": "The DSDP is a secure digital platform. Information within the DSDP is subject to the same ATIP obligations and restrictions as the information contained within any of our systems.   Services offered via the portal leverage government-wide client authentication services such as GCKey and Sign-In Partner (a financial institution or bank that offers registration for online banking access).",
+        "index": 99
+    },
+    {
+        "q": "How do I search for an Establishment?",
+        "a": "You can find an establishment by selecting ‘Establishments’ from the Permissions, Inspections or Enrolment sub-area menu, and searching for an establishment by establishment name, establishment ID (an internal, automatically generated ID in DSDP) or by party. You can also use the ‘*’ as a wildcard.   Detailed information on the process is available in SOP Searching for Establishments (RDIMS 10859888), which can be accessed from the DSDP page of Merlin. ",
+        "index": 100
+    },
+    {
+        "q": "Are paper copies required to be kept in the office?",
+        "a": "Export certification documents are either created within DSDP or uploaded into DSDP, including ink-signed documents. The electronic versions in DSDP are the official records, making paper copies transient.",
+        "index": 101
+    },
+    {
+        "q": "Which export certificates can exporters apply for using My CFIA?",
+        "a": "The complete list of which certificates can be applied for using My CFIA is found on the My CFIA online services page on the external website.",
+        "index": 102
+    },
+    {
+        "q": "How is the Agency implementing the change?",
+        "a": "The Agency will use a measured, gradual approach to implementation. Pilots will be conducted prior to full deployment in the dairy, fish, plant, and live cattle to the US programs to:   test end-to-end process, including the system and supporting work processes;   refine internal and external work processes; and   develop support components for roll-out, including training, guidance, support network and communications.   The pilots will include a small number of industry stakeholders in each Area. Agency staff, including the inspectorate, who currently support export certification for participating industry stakeholders will be part of the pilots.",
+        "index": 103
+    },
+    {
+        "q": "Is a laser printer needed to print export certificates?",
+        "a": "No. Export certificates need to be printed in colour but a laser printer is not required.",
+        "index": 104
+    },
+    {
+        "q": "Have our trading partners been informed about the DSDP?",
+        "a": "Yes, discussions are ongoing with trading partners. We have also engaged our Provincial and Territorial counterparts and other government departments as required.   The requirements for export certification are defined by the country-to-country trade agreements and they do not change due to the implementation of the DSDP or the new inspection approach.",
+        "index": 105
+    },
+    {
+        "q": "If I search for an establishment in DSDP and find more than one profile for the same establishment or if I notice an error in the profile, what should I do?",
+        "a": "Industry is responsible for their profile. If a duplicate Party or Establishment Profile is found in DSDP or discrepancies are observed within the Profile information, the DSDP Business Support Unit should be advised about the situation. Information explaining the issue should be provided so they can look into it and follow up.",
+        "index": 106
+    },
+    {
+        "q": "Are we sharing the information we capture about our stakeholders with partner organizations?",
+        "a": "The CFIA continues to protect information according to protection of information policies; but, as we do in our current state, we will continue to have information-sharing arrangements with partner organizations and with trading partners. An example of this is our current Memorandum of Understanding with Agriculture and Agri-food Canada that allows us to share commodity trade data in support of international trade",
+        "index": 107
+    },
+    {
+        "q": "Can the assigned sub-districts be changed?",
+        "a": "Yes, an export case can be routed to an alternate sub-district office.",
+        "index": 108
+    },
+    {
+        "q": "How will the system make sure that the exporter doesn’t make multiple print copies of the electronic certificate?",
+        "a": "Only the original certificate bears the colour signature and stamp; copies are made only after it has been certified and stamped. Once the original certificate has been printed for the exporter to send with their shipment, a watermarked certified copy becomes the only one available from the portal account.If the inspector has printed the original certificate in DSDP or the exporter prints it from My CFIA, the same restriction applies. The original certificate can only be printed once no matter which system is used. In addition, a new feature called the CFIA Certificate Viewer will allow international trading partners to view and authenticate Canadian issued certificates directly from the My CFIA website.   Note: there are no limits to how many times a “certified copy” can be printed.",
+        "index": 109
+    },
+    {
+        "q": "How is industry being notified of the availability of My CFIA services?",
+        "a": "My CFIA online services on our external website outlines which services are available online and when new services will become available.   Targeted outreach activities include: Listservs (email subscription notifications) : To advise subscribers when additional services become available online fact sheets : to describe new services and processes and are distributed via email and at industry meetings and events   presentations and briefings : to inform and update industry associations, our federal or provincial or territorial counterparts as well as our international partner organizations.",
+        "index": 110
+    }
+]
