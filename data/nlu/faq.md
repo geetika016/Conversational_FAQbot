@@ -1,148 +1,602 @@
-## intent:affirm
-- okay
-- Yes, thanks
-
 ## intent:faq
-- If a plant exporter is unclear what to select or doesn’t see the genus they are exporting on the list, what should they do?
-- Is there a business continuity plan in the event that the system is down or is undergoing maintenance?
-- If a client has comments and wants to provide feedback, how do they do it?
-- Which countries currently accept electronic signatures?
-- As an inspector, what should I do if I see that the Party profile information is incorrect or is still pending validation?
-- Can I review previous inspection cases, notes, etc., in DSDP to help me prepare for an inspection?
-- I work in a regional office and part of my job involves processing export certificates. Will I be involved in the new export certification process?
-- How will it work for accredited veterinarians who sign certificates on behalf of the CFIA? Will they have access to DSDP?
-- Who is responsible for validating a My CFIA party profile?
-- As a CFIA veterinarian, I sign export certificates for live animals. How will this process change?
-- What is the current service standard for the issuing of phytosanitary certificates?
-- In some regions, there is an office that issues certain types of export certificates, for example, the Phyto Processing Office issues all phytosanitary certificates for the Western Area. Is this changing?
-- How do external stakeholders access the new services?
-- How do I create, find and share Advanced find views and dashboards?
-- How will certificates be signed?
-- What happens if the system goes down and someone needs an export certificate right away?
-- Do I need a password and/or an account to access the DSDP?
-- Who uploads the animal health export certificate into My CFIA?
-- Is training for staff available?
-- Is there going to be after hours support for DSDP?
-- When will the electronic certificates process be rolled-out fully?
-- How will we know that exporters have included all the necessary documentation with their request?
-- What are the benefits to industry of using My CFIA for export certificates?
-- Will district offices that are part of the EEEC (Electronic Exchange of Export Certificates for cattle and bison to the USA) pilot adopt the use of DSDP?
-- When will the new services be available?
-- If an exporter needs multiple phytosanitary certificates, can they re-use their application?
-- What new functionality does the DSDP provide?
-- Can certificates be amended?
+- What's something you want to ask me?
+- Will you ask something
+- Can you go on vacation?
 - If I can’t find the establishment in DSDP, how can I have it added?
-- Will the new system be able to support multiple phytosanitary certificates coming from a single inspection?
-- What hours of the day and days of the week are the DSDP and My CFIA available?
-- Will it be possible to see all the requests from an exporter?
-- Will US border staff still have advance access to certificates through an online system?
-- How do the new Safe Food for Canadians regulations affect the new services and work processes?
-- What countries are accepting electronic phytosanitary certificates?
-- Once a certificate is issued can it be seen in the online certificate viewer/authenticator right away or is there a delay?
-- Can an individual apply for an export certificate through My CFIA?
-- How do I search for a licence/application?
-- Will the rollout of the new services online have an impact on Programs resources?
-- In the current system, there is a form to use off-line in the event the system becomes unavailable. Will this form continue to be used when phyotosanitary certification moves to DSDP?
-- If someone needs an export certificate and they are not enrolled in My CFIA, how can they get one?
-- What happens if the requirements for the specific commodity and country are not included in My CFIA?
-- What role is the administration staff (Phyto group) going to have with the new system?
-- I’m an inspector who issues export certificates. How will the new electronic export certification process affect me?
-- Do importing countries know about the new export certification process?
-- Will it be possible to upload animal ID data into DSDP or will it have to be manually entered into the export application form?
-- Can an application be denied and how is that done?
-- If an import permit is required for the export certificate, does that need to be submitted as part of the application process?
-- As an inspector, how will I know if there is an export task ready for me in the queue?
-- What if those who use the transferred services don’t have an Internet connection or use a computer?
-- If exporters have questions, where should they be sent?
-- If the certificate is for a country that does not accept electronic signatures, how are the certificates issued?
-- How long after an export request is submitted into My CFIA will we be able to see it in DSDP?
-- Will CFIA inspection staff have access to what clients are seeing in My CFIA so they can help them if they are having a problem?
-- Are all services being transferred over to the DSDP?
-- What do I do if I see that the Party profile is still pending validation?
-- How are participants chosen?
-- Once a certificate has been signed / issued is it still visible?
-- How do clients know which permissions and export certificates they can request online and which they cannot?
-- If an export requires both a phytosanitary certificate and another type of certification under a different program, such as food, do they submit one application or two?
-- Can applications be resubmitted?
-- What is the Digital Service Delivery Platform?
-- Why is the Agency automating the export certification process?
-- Will there be a service delivery time standard for export certification across all three business lines?
-- Will we still need to upload documents received by email into RDIMS or the O: drive?
-- Can all office staff access cases for that office?
-- If a foreign country accepts electronic signatures, is there still a need to include a print copy of the certificate with the shipment?
-- Why do we need a digital platform?
-- If an applicant is requesting certification for an export that includes a combination of plant material that requires a phytosanitary certificate and plant material requiring certification for re-export, do they submit two separate applications?
-- Will there be any changes to export requirements as a result of electronic export certification?
-- What will happen to our old systems and data?
-- Is the accredited veterinarians manual going to be updated and information provided to these veterinarians?
-- Is there going to be training? If so, what kind of training? When do I need to take it?
-- Are unions aware of the DSDP and the implementation plan?
-- Is there any other support available?
-- Can brokers request a specific / different office?
-- How will the system be set-up to ensure the certificates can identify different groups of animals so the vets know which ones are being certified and ID them on the form?
-- Will there be someone verifying that the certificates do not contain any grammar mistakes?
-- What are the benefits to plant exporters of using My CFIA?
-- If a shipment includes plant material for both export and re-export, does the exporter need to apply for two separate certificates using two separate applications?
-- When can government-to-government transactions be used?
-- The CFIA currently uses Alternative Service Providers to support the delivery of some of our services and programs. How is this being managed in the DSDP?
-- Can My CFIA services be accessed using smartphones?
-- How will supervisors or administrators receive export request in DSDP?
-- Can an exporter request a certificate after the shipment has left Canada?
-- If I have questions, whom should I contact?
-- How do I load documents into DSDP?
-- How are invoices created?
-- How will individual export certificates from the same broker be differentiated in the system?
-- Will the Canadian Heat Treated Wood Products Certification Heat Treatment (HT) program still exist or will all applications have to be inspected?
-- Is industry being trained in how to use the new system and services?
-- Has the union been informed?
-- What is changing?
-- I work in Policy and Programs Branch (PPB). What will the DSDP mean for my work?
-- How do exporters pay for their certificates?
-- What happens if, when printing the original, something goes wrong with their printer? How is a new one obtained – do they have to apply all over again?
-- What does the accredited vet see on the certificate?
-- Why are we moving to electronic phyotosanitary certification so quickly?
-- If an exporter loses or damages a certificate, can they get a replacement?
-- How secure is the information we’re capturing in the system? Is it subject to Access to Information and Privacy (ATIP) requests?
 - How do I search for an Establishment?
-- Are paper copies required to be kept in the office?
+- What do you want me to inform you about?
+- Are you able to scratch my back?
+- If the certificate is for a country that does not accept electronic signatures, how are the certificates issued?
+- Do you have fingers?
+- Can you plant a tree?
+- Do you ever pee?
+- Will you ask me anything about myself
+- I'm so bored of you
+- Yawn
+- What do you want me to teach you who I am
+- Is industry being trained in how to use the new system and services?
+- U basic
+- Would you ask me something
+- That is not exciting
+- Can you fly
+- Please ask anything
+- Will CFIA inspection staff have access to what clients are seeing in My CFIA so they can help them if they are having a problem?
+- If an export requires both a phytosanitary certificate and another type of certification under a different program, such as food, do they submit one application or two?
+- You're such a snooze
+- What can I inform you about?
+- Do you ever yawn?
+- You are crazy dull
+- Will there be any changes to export requirements as a result of electronic export certification?
+- Who do you serve?
+- In some regions, there is an office that issues certain types of export certificates, for example, the Phyto Processing Office issues all phytosanitary certificates for the Western Area. Is this changing? 
+- You honestly could not be more uninteresting
+- You are making my eyes glaze over
+- You really know how to suck the fun out of the room
+- That is so boring
+- Who supervises you?
+- You're so very dull
+- Please ask me something
+- Can you get hurt?
+- Can you make a pot of tea?
+- Can you learn from people chatting with you
+- Wake me up when you have something interesting to say
+- Can you yawn?
+- Can you plant a vegetable garden?
+- Can you play sports?
+- This is boring
+- Do you chew?
+- Can you show me how to dance?
+- What is the name of your director?
+- Ask me about something
+- Could you be any less interesting?
+- Who do you report to?
+- Can I review previous inspection cases, notes, etc., in DSDP to help me prepare for an inspection?
 - Which export certificates can exporters apply for using My CFIA?
-- How is the Agency implementing the change?
-- Is a laser printer needed to print export certificates?
-- Have our trading partners been informed about the DSDP?
-- If I search for an establishment in DSDP and find more than one profile for the same establishment or if I notice an error in the profile, what should I do?
-- Are we sharing the information we capture about our stakeholders with partner organizations?
-- Can the assigned sub-districts be changed?
+- What year were you born?
+- Will US border staff still have advance access to certificates through an online system?
+- You're like a Ted Talk from the color Beige
+- You're not entertaining
+- Can you ask something about me?
+- What do you want me to teach you about?
+- Can you eat?
+- What is your boss' name?
+- Do you have fingernails?
+- Is there a business continuity plan in the event that the system is down or is undergoing maintenance?
+- Do importing countries know about the new export certification process?
+- What is your age?
+- Are you a grownup?
+- Can you be less dull?
+- Can you feed the cat?
+- What questions do you have for me?
+- Will you ask me something about me
+- You're so dull
+- What happens if the system goes down and someone needs an export certificate right away?
+- Don't you want to ask me anything
+- Can you dream
+- Please ask me something about me
+- Ur blah
+- Ugh so boring
 - How will the system make sure that the exporter doesn’t make multiple print copies of the electronic certificate?
+- Who's calling the shots?
+- Can you get a haircut?
+- I’m an inspector who issues export certificates. How will the new electronic export certification process affect me? 
+- Don't you want to ask me something?
+- Are you in your teens?
+- Can you draw something?
+- What can I teach you about me?
+- So no one tells you what to do?
+- You're boring
+- Can you ask anything about me?
+- Who directs you?
+- You're quite boring
+- Who's your manager?
+- You're very dull
+- What can I tell you about me?
+- Please ask something about myself
+- Who's in charge?
+- Watching paint dry is more entertaining than talking to you
+- Who's in charge of you?
+- Are you able to buy groceries?
+- Listening to you is like listening to a Ted Talk from the color Beige
+- Do you vomit?
+- You've got a boss?
+- Do you sweat?
+- How will supervisors or administrators receive export request in DSDP? 
+- What would you like to learn about me
+- Are you able to get a haircut?
+- Don't you ever sleep?
+- What will happen to our old systems and data?
+- Could you ask me about something?
+- What do you want me to inform you who I am?
+- Who's your master?
+- I work in a regional office and part of my job involves processing export certificates. Will I be involved in the new export certification process?
+- Who's your director?
+- Do you crawl?
+- What would you like to know about me
+- Who's your supervisor
+- You're not exciting
+- Can you jump rope?
+- Why are you so dull?
+- Would you ask anything about myself
+- How about you ask me questions?
+- What do I do if I see that the Party profile is still pending validation?
+- Are you able to put out a fire?
+- I couldn't be more bored with you
+- How about asking me something?
+- Do you throw up?
+- Can you show me how to play a game?
+- Can you play baseball?
+- What if those who use the transferred services don’t have an Internet connection or use a computer?
+- What's the name of your director?
+- Can you crawl?
+- Would you ask me anything
+- What's your birthday?
+- What is the name of your boss?
+- Please ask something about me
+- Can you ask me something about me?
+- Do you ever fart?
+- Have our trading partners been informed about the DSDP?
+- Why do we need a digital platform?
+- Can you show me how to do my homework?
+- Can you vomit?
+- Will you ask anything
+- Will you ask me something about myself
+- Can you tie my shoes?
+- Please ask something
+- If an exporter needs multiple phytosanitary certificates, can they re-use their application?
+- Are you able to play a game?
+- Who is your master?
+- I'm falling asleep here
+- Are you able to dance?
+- Do I need a password and/or an account to access the DSDP?
+- Basic af
+- Just ask me a question
+- Do you have any questions for me?
+- Are you able to mow the lawn?
+- Will we still need to upload documents received by email into RDIMS or the O: drive?
+- Can you cry?
+- What would you like to know about
+- Want to ask any questions about me?
+- Who is responsible for validating a My CFIA party profile?
+- Are we sharing the information we capture about our stakeholders with partner organizations?
+- Do you ever get tired?
+- How do I create, find and share Advanced find views and dashboards?
+- So boring
+- Ask me anything
+- You don't answer to anyone?
+- Is there anything you want to know about me?
+- Can you ask me anything about me?
+- Can you scratch my back?
+- You are embarrassingly dull
+- Could you be any more boring?
+- What are some questions for me?
+- When can government-to-government transactions be used?
+- Will it be possible to upload animal ID data into DSDP or will it have to be manually entered into the export application form?
+- Can you ask questions?
+- Are you able to breathe under water?
+- When will the new services be available?
+- Ur so boring
+- I am not enjoying this boring conversation
+- Are you able to go to the moon?
+- When were you born?
+- This is so uninteresting
+- What role is the administration staff (Phyto group) going to have with the new system? 
+- In the current system, there is a form to use off-line in the event the system becomes unavailable. Will this form continue to be used when phyotosanitary certification moves to DSDP?
+- Are you younger than me?
+- What month is your birthday?
+- Who's younger?
+- Are you a teenager?
+- Is there going to be after hours support for DSDP?
+- That is so dull
+- Do you have arms?
+- Can you jump?
+- Can you make a sculpture?
+- Can you draw a picture?
+- Who runs you?
+- What month is your birthday in?
+- How will we know that exporters have included all the necessary documentation with their request?
+- Can you paint?
+- When's your birthday?
+- Can the assigned sub-districts be changed?
+- Can you play a dvd?
+- Is there anything you want to ask me?
+- Who uploads the animal health export certificate into My CFIA?
+- Can you throw up?
+- Do you ever crawl?
+- Can you get tired?
+- Is training for staff available?
+- Do you ever eat?
+- You report to anyone?
+- Do you ever burp?
+- Can an exporter request a certificate after the shipment has left Canada?
+- Is there anyone who tells you what to do?
+- Are you able to listen to the radio?
+- Do you answer to anyone?
+- Can you listen to the radio?
+- Will you ask anything about myself
+- That is so uninteresting
+- Can you fight
+- Do you get tired?
+- What happens if, when printing the original, something goes wrong with their printer? How is a new one obtained – do they have to apply all over again?
+- How will it work for accredited veterinarians who sign certificates on behalf of the CFIA? Will they have access to DSDP?
+- This is not fun
+- Would you ask me something about myself
+- Don't you want to know anything about me?
+- You're boring me to death
+- I bet you're old
+- Can you fight with
+- What do you want to know about me?
+- Please ask me anything
+- What's something you want to know about me?
+- Will you ask me something
+- Who runs the show?
+- If an exporter loses or damages a certificate, can they get a replacement?
+- Would you ask anything
+- Do you sleep?
+- Did you know that you're boring?
+- What is the name of your supervisor
+- This is so dull
+- If a shipment includes plant material for both export and re-export, does the exporter need to apply for two separate certificates using two separate applications? 
+- I work in Policy and Programs Branch (PPB). What will the DSDP mean for my work?
+- Got any questions for me?
+- Do you have a stomach?
+- Who's older?
+- You're as entertaining as watching paint dry
+- What do you want me to tell you about me?
+- Are you able to do my chores?
+- Be more fun
+- Could you be any less entertaining?
+- You bore me
+- You don't have a boss?
+- Do you ever sneeze?
+- Can you play soccer?
+- What can I teach you who I am?
+- Can all office staff access cases for that office?
+- How are participants chosen?
+- If an import permit is required for the export certificate, does that need to be submitted as part of the application process?
+- Does anyone boss you around?
+- What do you want to know about
+- Can you predict the future?
+- What can I tell you who I am?
+- I bet you're young
+- Do you have bowels?
+- Will you ask anything about me
+- You're pretty uneventful
+- How will certificates be signed?
+- Who is your leader?
+- Getting tired of you
+- You answer to anyone?
+- Why don't you ask me anything?
+- Can certificates be amended?
+- Why don't you ask me questions?
+- Do you have intestines?
+- Ask me something
+- Are you able to change the channel?
+- Do you want to ask me anything?
+- Who do you answer to?
+- Now, it's your turn to ask questions
+- How will the system be set-up to ensure the certificates can identify different groups of animals so the vets know which ones are being certified and ID them on the form?
+- Do you ever get hurt?
+- Who is your manager?
+- Why do I have to ask all the questions?
+- What do you want to ask me about?
+- What's the name of your manager?
+- Are you able to draw a picture?
+- You're pretty boring
+- Are you able to check my email?
+- As a CFIA veterinarian, I sign export certificates for live animals. How will this process change?
+- Are you old?
+- Would you ask me something about me
+- What is your supervisor's name
+- Will the rollout of the new services online have an impact on Programs resources?
+- You're so basic
+- How do clients know which permissions and export certificates they can request online and which they cannot?
+- You are crazy boring
+- Will there be a service delivery time standard for export certification across all three business lines?
+- Do you have legs?
+- Has the union been informed?
+- You're dull
+- Is there anyone you answer to?
+- Do you have any questions about me?
+- What's your director's name?
+- Are you able to cook dinner?
+- You're the king of boredom
+- Which one of us is older?
+- Do you have an age?
+- Can you make a call?
+- You are so blah
+- If exporters have questions, where should they be sent?
+- Can you ask something about myself?
+- Which one of us is younger?
+- Do you ever sweat?
+- Can you send a package?
+- Do you want to know anything about me?
+- That is not very interesting
+- When is your birthday?
+- Are you able to jump rope?
+- Can you go for a walk?
+- This is not exciting
+- You are boring as sin
+- That is not fun
+- You're no fun
+- Do you have a boss?
+- Do you ever cry?
+- What new functionality does the DSDP provide?
+- Can you show me how to put out a fire?
+- If a foreign country accepts electronic signatures, is there still a need to include a print copy of the certificate with the shipment?
+- Who is your boss?
+- Do you have hair?
+- Do you have teeth?
+- AMA
+- Will you ask me anything about me
+- You're the queen of boredom
+- I want you to ask about me
+- Will you ask something about myself
+- You're so blah
+- Can My CFIA services be accessed using smartphones?
+- Were you made to be this boring?
+- Is there anything I can tell you about who I am?
+- Don't you want to know about me?
+- Why is the Agency automating the export certification process?
+- You have any questions for me?
+- Want to learn more about me?
+- What age are you?
+- Who's younger, you or me?
+- Would you ask something about myself
+- You have a boss?
+- Are you able to make a call?
+- Would you ask anything about me
+- What do you want me to tell you who I am?
+- Ur gonna bore me to death
+- Can you show me how to breathe under water?
+- Can you do my homework?
+- What do you want to learn about me
+- are you older than me?
+- Don't you want to ask anything about me?
+- You are the most boring bot I've ever talked to
+- Can an application be denied and how is that done?
+- Who is older, me or you?
+- Don't you ever masticate?
+- You're no fun at all.
+- Do you ever vomit?
+- Who call the shots?
+- What is changing?
+- You're not interesting
+- How is the Agency implementing the change?
+- You're a real snooze
+- Can you go to the doctor?
+- You're super boring
+- Would you ask something
+- Can you take my temperature?
+- Will the Canadian Heat Treated Wood Products Certification Heat Treatment (HT) program still exist or will all applications have to be inspected?
+- Who tells you what to do?
+- Do you ever dream
+- Can you teleport?
+- Can you show me how to jump rope?
+- Do you get zits?
+- Whom do you serve?
+- Are you able to go for a walk?
+- Can you make me a sandwich?
+- Can you play a game?
+- Would you ask me anything about me
+- Who's your boss?
+- Do you yawn?
+- If I have questions, whom should I contact?
+- You don't interest me at all
+- Are you a kid?
+- How are invoices created?
+- Are you able to feed the cat?
+- What is your birthday?
+- What does the accredited vet see on the certificate?
+- When will the electronic certificates process be rolled-out fully?
+- Ask me about anything
+- Would you ask something about me
+- Are you able to go to the doctor?
+- Can you mow the lawn?
+- What can I teach you about?
+- You could not be more boring
+- Can you bake me cookies?
+- Do you dream
+- Who bosses you around?
+- I'm so tired of you
+- The CFIA currently uses Alternative Service Providers to support the delivery of some of our services and programs. How is this being managed in the DSDP?
+- Are you an adult?
+- If I search for an establishment in DSDP and find more than one profile for the same establishment or if I notice an error in the profile, what should I do?
+- I am amazed that you are so boring
+- I want you to ask me questions
+- As an inspector, how will I know if there is an export task ready for me in the queue?
+- You're really boring
+- Which of us is older?
+- You're the boringest
+- What is the name of your manager?
+- What is your director's name?
+- How long ago were you born?
+- Ur basic
+- Will you ask something about me
+- Please ask anything about me
+- Do you fart?
+- Will it be possible to see all the requests from an exporter?
+- What are the benefits to industry of using My CFIA for export certificates?
+- Do you ever breathe
+- how long have you been around?
+- Do you eat?
+- Is there going to be training? If so, what kind of training? When do I need to take it?
+- What day is your birthday?
+- Holy crap you are boring
+- Please ask me anything about me
+- You're pretty uninteresting
+- You're quite uninteresting
+- Are you trying to be dull?
+- Which of us is younger?
+- You're not very entertaining.
+- You're the mayor of boringville
+- Can you make a cup of coffee?
+- Do you ever chew?
+- How will individual export certificates from the same broker be differentiated in the system?
+- Please ask anything about myself
+- Any questions for me?
+- Are all services being transferred over to the DSDP?
+- Are you able to send a package?
+- Are unions aware of the DSDP and the implementation plan?
+- Could you be any less exciting?
+- Can you sneeze?
+- Why am I the only one asking questions?
+- Can you chew?
+- Can you ask me why I'm here?
+- Can you ask me a question?
+- Do you burp?
+- You are more boring than watching paint dry
+- Ask me a question
+- Are you young?
+- Can you ask me anything?
+- Boring
+- What can I tell you about?
+- Can you burp?
+- How do the new Safe Food for Canadians regulations affect the new services and work processes?
+- Are paper copies required to be kept in the office?
+- What is your manager's name?
+- Why are you so boring
+- If a plant exporter is unclear what to select or doesn’t see the genus they are exporting on the list, what should they do?
+- You're so boring
+- Why are we moving to electronic phyotosanitary certification so quickly?
+- What's the name of your boss?
+- How long have you been alive?
+- Could you ask me something?
+- Are you trying to bore me?
+- What do you want me to tell you about?
+- Can you learn?
+- Please ask me anything about myself
+- How long after an export request is submitted into My CFIA will we be able to see it in DSDP?
+- How do external stakeholders access the new services?
+- Ugh, so dull
+- Do you ever poop?
+- If an applicant is requesting certification for an export that includes a combination of plant material that requires a phytosanitary certificate and plant material requiring certification for re-export, do they submit two separate applications?
+- You're gonna bore me shitless
+- Are you able to do my homework?
+- What do you want to learn about
+- Do you want to ask me something?
+- Can you ask me something?
+- Can brokers request a specific / different office?
+- Are we the same age?
+- Can you ask me anything about myself?
+- What do you want me to inform you about me?
+- In which year were you born?
+- Are you a baby?
+- Which month is your birthday?
+- Can you breathe
+- Do you get hurt?
+- Good lord you are dull
+- What is the name of your manager
+- Lost the election because your speech was too boring
+- What can I inform you about me?
+- That is boring
+- Is there something you want to know about me?
+- What's your age?
+- I'm not surprised that you are boring
+- Why are you so boring?
+- Can you go to the moon?
+- Ask me questions
+- Is a laser printer needed to print export certificates?
+- Will district offices that are part of the EEEC (Electronic Exchange of Export Certificates for cattle and bison to the USA) pilot adopt the use of DSDP?
+- You are dull
+- Do you sneeze?
+- Can you ask anything?
+- Are you my age?
+- You're not very exciting.
+- What countries are accepting electronic phytosanitary certificates?
+- You're making me fall asleep
+- Do you ever walk
+- Fun fact: you are boring
+- Will the new system be able to support multiple phytosanitary certificates coming from a single inspection?
+- Do you have toes?
+- Can you put out a fire?
+- How about asking something about me?
+- Which year were you born in?
+- Can you paint my house?
+- What happens if the requirements for the specific commodity and country are not included in My CFIA?
+- Can you walk?
+- Can you play football?
+- You're such a drag
+- Is there anyone you listen to?
+- Which countries currently accept electronic signatures?
+- Do you have lungs?
+- Do you ever throw up?
+- What are the benefits to plant exporters of using My CFIA?
+- You're very boring
+- Can you read my mind?
+- Can applications be resubmitted?
+- Can you find the remote?
+- Can you ask anything about myself?
+- This is so boring
+- Can you ask me something about myself?
+- What is the name of your boss
+- Is there any other support available?
+- Do you have eyes?
+- Does anyone tell you what to do?
+- Is the accredited veterinarians manual going to be updated and information provided to these veterinarians?
+- I'm tired of you
+- Who is in charge of you?
+- Why don't you ever ask me questions?
+- How old are you?
+- What is the name of your director
+- Are you able to paint my house?
+- If a client has comments and wants to provide feedback, how do they do it?
+- Can you sweat?
+- Can you play the guitar?
+- Are you a senior?
+- Do you have skin?
+- Can you show me how to go to the moon?
+- This is not very interesting
+- Once a certificate is issued can it be seen in the online certificate viewer/authenticator right away or is there a delay?
+- What do you want me to teach you about me?
+- Are you a grown up?
+- What would you like to learn about
 - How is industry being notified of the availability of My CFIA services?
-- countries that take electronic certificates
-- countries that accept electronic certificate
-- which countries accept electronic certificates
-- countries that accept electronic certificates
-- countries with electronic certificate
-- I am looking for some information on PhytoSanitary certificates
-- what is phytosanitary certificate
-- Can I know about phytosanitary certificate
-- What is phytosanitary certificate
-- how will rollout of the new services online have an impact resources
-- "Who is responsible for validating a My CFIA party profile?
-- s a CFIA veterinarian, I sign export certificates for live animals. How will this process change?
-- why am  I here
-- I am looking for information on phytosanitary certificates
-- I am looking for information on phytosanitary certificate
-- What is Google
-- What countries accept electronic signatures?
-- Whaatt is the current standard for issuing phytosanitary certificate
-- How do I create, find and share Advanced find views and dashboards?"
-- share advanced find views and dashboards
-- create advanced findviews
-- Where can I find a satel
-- Where can I get a satellite
-- why am I bored
-- plant exporter species
-- A plant exporter cannot find a species they are exporting on the list, what to do
-
-## intent:greet
-- hey
-- what are you
-- hi
-- hello bot
+- Is there anything I can tell you about me?
+- You could not be more dull.
+- You're basic
+- Can you ask something?
+- If someone needs an export certificate and they are not enrolled in My CFIA, how can they get one?
+- You're going to bore me to death
+- I want you to ask me a question
+- Cool story, bro
+- Do you cry?
+- Can you show me how to draw a picture?
+- What's the name of your supervisor
+- Can you be less boring?
+- How about you ask me something?
+- As an inspector, what should I do if I see that the Party profile information is incorrect or is still pending validation?
+- What is the current service standard for the issuing of phytosanitary certificates?
+- Who's running the show?
+- How do exporters pay for their certificates?
+- Talking to you is like watching paint dry.
+- Do you have a birthday?
+- What's your manager's name?
+- Who is your director?
+- What do you want to know about me
+- Would you ask me anything about myself
+- What's your boss' name?
+- Do you want me to tell you anything?
+- What hours of the day and days of the week are the DSDP and My CFIA available?
+- Can you serve on a jury?
+- Are you able to go on vacation?
+- Are you able to draw something?
+- How secure is the information we’re capturing in the system? Is it subject to Access to Information and Privacy (ATIP) requests?
+- How do I load documents into DSDP?
+- How do I search for a licence/application?
+- Will there be someone verifying that the certificates do not contain any grammar mistakes?
+- How long has it been since you were born
+- Please ask me something about myself
+- Will you ask me anything
+- Is there anything I can tell you about myself?
+- Can an individual apply for an export certificate through My CFIA?
+- Do you have a liver?
+- Who's older, you or me?
+- So dull
+- Are you able to play a dvd?
+- do you ever masticate?
+- What is the Digital Service Delivery Platform?
+- Once a certificate has been signed / issued is it still visible?
+- Who bosses you?
+- You're the president of boring club
+- Can you fly?
