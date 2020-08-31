@@ -57,9 +57,10 @@ Download the pre-trained [12/768 BERT-bas] (https://github.com/google-research/b
 
 10. You can talk to your bot, or share the bot with others, improve it with time etc.
 
-11. The chatbot server can be hosted on Azure, and then can be deployed to Teams, Slack or Messenger.
+11. The chatbot server can be hosted on Azure, and then can be deployed to Teams, Slack or Messenger:
 
 	a. The [Dockerfile](https://www.docker.com) in the project allows us to upload the action server docker image to docker. For more details you can go [here](https://rasa.com/docs/rasa/user-guide/how-to-deploy/#building-an-action-server-image)
+
 	b. Create an Azure VM with the minimum specs : 
 		* Ubuntu 16.04 / 18.04
 		* vCPUs : 4-6
