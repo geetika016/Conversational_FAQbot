@@ -30,8 +30,8 @@ Download the pre-trained [12/768 BERT-bas] (https://github.com/google-research/b
 
 3. Run:
 
-			pip install -r requirements.txt
-			pip install rasa-x==0.20.1 --extra-index-url https://pypi.rasa.com/simple
+		pip install -r requirements.txt
+		pip install rasa-x==0.20.1 --extra-index-url https://pypi.rasa.com/simple
 
 4. Then move to the data/nlu folder and run:
 
@@ -43,15 +43,15 @@ Download the pre-trained [12/768 BERT-bas] (https://github.com/google-research/b
 
 6. Open another terminal window once BERT is ready to serve requests and run:
 
-			rasa train
+		rasa train
 
 7. This will train the model for the data provided, and now we need to start the action server by running:
 
-			rasa run actions
+		rasa run actions
 			
 8. Once the action server is up and running, open another terminal window and run:
 
-			rasa x
+		rasa x
 
 9. The rasa x UI will be running in the localhost on port 5055, and the address in terminal will also specify the username and password to access the admin backend.
 
