@@ -1,7 +1,7 @@
 # PROJECT DESCRIPTION
 
 ## What is in this Repository?
-This repository contains code for a conversational FAQ chatbot that I built using [RASA](https://rasa.com ) and [pre-trained Google BERT](https://arxiv.org/abs/1810.04805). The code has been structured to facilitate deployment to [Azure](https://azure.microsoft.com/en-ca/) can also be used to maintain a CI/CD pipeline for [Azure DevOps] (https://azure.microsoft.com/en-ca/services/devops/)
+This repository contains code for a conversational FAQ chatbot that I built using [RASA](https://rasa.com ) and [pre-trained Google BERT](https://arxiv.org/abs/1810.04805). The code has been structured to facilitate deployment to [Azure](https://azure.microsoft.com/en-ca/) can also be used to maintain a CI/CD pipeline for [Azure DevOps](https://azure.microsoft.com/en-ca/services/devops/)
 
 ## What are the features of this Conversational FAQbot?
 As the name suggests the chatbot can do two things :
