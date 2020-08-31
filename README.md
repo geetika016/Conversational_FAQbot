@@ -62,13 +62,17 @@ Download the pre-trained [12/768 BERT-bas] (https://github.com/google-research/b
 	a. The [Dockerfile](https://www.docker.com) in the project allows us to upload the action server docker image to docker. For more details you can go [here](https://rasa.com/docs/rasa/user-guide/how-to-deploy/#building-an-action-server-image)
 
 	b. Create an Azure VM with the minimum specs : 
+	
 		* Ubuntu 16.04 / 18.04
 		* vCPUs : 4-6
 		* RAM : 4-8GB
 		* Disk Space : atleast 50GB
+		
 	c. The Rasa X deployment to an Azure VM can be done using one-step deployment [script](https://rasa.com/docs/rasa-x/installation-and-setup/install/quick-install-script/), it installs a Kubernetes Cluster, Helm command line interface and installs Rasa X using RASA X Helm Chart.
+	
 	d. The github repository can then be connected to this RASA X deployment using the button on the RASA X UI.
 		[!image](https://rasa.com/docs/rasa-x/_images/integrated-version-control-not-connected.png)
+		
 	e. Add the following details to the values.yml file for the deployment:
 		
 		# app (custom action server) specific settings
