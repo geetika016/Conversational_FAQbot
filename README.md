@@ -71,7 +71,7 @@ Download the pre-trained [12/768 BERT-bas] (https://github.com/google-research/b
 	c. The Rasa X deployment to an Azure VM can be done using one-step deployment [script](https://rasa.com/docs/rasa-x/installation-and-setup/install/quick-install-script/), it installs a Kubernetes Cluster, Helm command line interface and installs Rasa X using RASA X Helm Chart.
 	
 	d. The github repository can then be connected to this RASA X deployment using the button on the RASA X UI.
-		[!image](https://rasa.com/docs/rasa-x/_images/integrated-version-control-not-connected.png)
+		![image of github connection](https://rasa.com/docs/rasa-x/_images/integrated-version-control-not-connected.png)
 		
 	e. Add the following details to the values.yml file for the deployment:
 		
